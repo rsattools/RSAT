@@ -1,5 +1,8 @@
 ## Download RSAT (Remote Server Administration Tools)
 
+Download the latest version from Releases page:       
+https://github.com/rsat-releases/RSAT/releases/tag/1.412
+
 RSAT allows IT professionals to manage Windows Server roles and features remotely from a device running either Windows 10 or Windows 7 Service Pack 1.
 
 ## Introduction
