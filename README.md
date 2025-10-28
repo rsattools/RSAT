@@ -22,4 +22,4 @@ If you're managing roles or features running on remote servers from Windows Serv
 > **Note**
 > The **Turn Windows features on and off** dialog in Control Panel is not available for use.
 
-Installing RSAT in Windows 10 version 1809 and beyond differs slightly from earlier approaches. RSAT is now bundled with the operating system and can be installed through **Optional Features**.
+Installing RSAT in Windows 10 version 1809 and beyond differs slightly from earlier approaches. RSAT is now included with the operating system and can be installed as an optional feature.
