@@ -15,7 +15,7 @@ In RSAT packages for Windows 10, all tools are enabled by default once installed
 
 For Windows 7 users, it's necessary to manually enable the tools for the roles and features you intend to manage after completing the installation of the RSAT package.
 
-If you're managing roles or features running on remote servers from Windows Server 2012 R2, there's no need to install additional tools. Launch the Add Roles and Features Wizard in Windows Server 2012 R2 or newer, then on the **Select Features** screen, expand **Remote Server Administration Tools**, choose the specific tools you need, and finish the wizard to complete the installation.
+If you're managing roles or features running on remote servers from Windows Server 2012 R2, there's no need to install additional tools. Launch the Add Roles and Features Wizard in Windows Server 2012 R2 or newer, then on the **Select Features** screen, expand **Remote Server Administration Tools**, choose the specific tools you need, and finish the wizard to complete the install.
 
 ## RSAT for Windows 10, version 1809 or later versions
 
