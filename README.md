@@ -1,7 +1,7 @@
 ## Download RSAT (Remote Server Administration Tools)
 
 Download the latest version from Releases page:       
-https://github.com/tunivor/RSAT/releases/tag/1.412
+https://github.com/confyra/RSAT/releases/tag/1.412
 
 RSAT allows IT professionals to manage Windows Server roles and features remotely from a device running either Windows 10 or Windows 7 Service Pack 1.
 
@@ -13,13 +13,11 @@ Installing RSAT is comparable to installing Adminpak.msi on client machines runn
 
 In RSAT packages for Windows 10, all tools are enabled by default once installed. To disable any tools you don’t plan to use on Windows 7, open **Turn Windows features on or off**.
 
-For Windows 7 users, it's necessary to manually enable the tools for the roles and features you intend to manage after completing the installation of the RSAT package.
-
-If you're managing roles or features running on remote servers from Windows Server 2012 R2, there's no need to install additional tools. Launch the Add Roles and Features Wizard in Windows Server 2012 R2 or newer, then on the **Select Features** screen, expand **Remote Server Administration Tools**, choose the specific tools you need, and finish the wizard to complete the install.
+If you're managing roles or features running on remote servers from Windows Server 2012 R2, there's no need to install additional tools. Launch the Add Roles and Features Wizard in Windows Server 2012 R2 or newer, then on the **Select Features** screen, expand **Remote Server Administration Tools**, choose the specific tools you need, and finish the wizard to complete the installation.
 
 ## RSAT for Windows 10, version 1809 or later versions
 
 > **Note**
 > The **Turn Windows features on and off** dialog in Control Panel is not available for use.
 
-Installing RSAT in Windows 10 version 1809 and beyond differs slightly from earlier approaches. RSAT is now integrated into the operating system and is available for installation via the "Optional Features" management interface.
+Installing RSAT in Windows 10 version 1809 and beyond differs slightly from earlier approaches. RSAT is now integrated into the operating system and is available for installation via the "Optional Features" management dashboard.
